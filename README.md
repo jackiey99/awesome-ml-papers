@@ -12,3 +12,12 @@ A repository of inspiring machine learning papers.
 |Beyond Sparsity: Tree Regularization of Deep Models for Interpretability| Mike Wu, Michael C. Hughes, Sonali Parbhoo, Maurizio Zazzi, Volker Roth, Finale Doshi-Velez| | |
 |Robust Spammer Detection by Nash Reinforcement Learning| | | |
 |Octet: Online Catalog Taxonomy Enrichment with Self-Supervision| | | |
+|DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks| David Slinas, Valentin Flunkert, Jan Gasthaus| | |Accelerating Large-Scale Inference with Anisotropic Vector Quantization| | | [Google Blog](https://ai.googleblog.com/2020/07/announcing-scann-efficient-vector.html)|
+|Auto-Keras: An Efficient Neural Architecture Search System| | | |
+|When Do GNNs Work: Understanding and Improving Neighborhood Aggregation| | | |
+|Continuous Graph Neural Networks| | | |
+|TabNet: Attentive Interpretable Tabular Learning| | | |
+|StarSpace:Embed All The Things| | | |
+|CatBoost: gradient boosting with categorical features support| | | |
+|fastai: A Layered API for Deep Learning| | | |
+|Beyond User Embedding Matrix: Learning to Hash for Modeling Large-Scale Users in Recommendations
