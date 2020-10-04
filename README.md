@@ -39,3 +39,7 @@ A repository of inspiring machine learning papers.
 |AutoGluon-Tabular: Robust and Accurate AutoML for Structured Data| | | |
 |Training with Multi-Layer Embeddings for Model Reduction| | | |
 |Deep Learning Recommendation Model for Personalization and Recommendation Systems| | | |
+|On the Bottleneck of Graph Neural Networks and its Practical Implications| | | |
+|Neural Collaborative Filtering vs. Matrix Factorization Revisited| | | |
+|Neural Machine Translation of Rare Words with Subword Units| | | |
+|Debiasing Grid-based Product Search in E-commerce| | | |
