@@ -17,6 +17,11 @@ A repository of inspiring machine learning papers.
 | --- | --- | --- | --- |
 |[Learning Confidence for Out-of-Distribution Detection in Neural Networks](https://arxiv.org/abs/1802.04865)|Terrance DeVries, Graham W. Taylor| [python](https://github.com/uoguelph-mlrg/confidence_estimation) | This paper proposes a method of estimating confidence for neural networks for out-of-distribution detection. A few important details: budget parameter, combating excessive regularization, and retraining misclassified examples, for the architecture to work well.|
 
+## System
+| Paper | Authors | Code | Notes |
+| --- | --- | --- | --- |
+|[fastai: A Layered API for Deep Learning](https://arxiv.org/abs/2002.04688)|Jeremy Howard, Sylvain Gugger|[Github](https://github.com/fastai/fastai) | The paper documents the philosophy behind the API design of the popular DL library fast.ai, which provides low, mid, and high level APIs, offering productivity as well as flexibility |
+
 ## Uncategorized for now
 | Paper | Authors | Code | Notes |
 | --- | --- | --- | --- |
@@ -31,7 +36,6 @@ A repository of inspiring machine learning papers.
 |TabNet: Attentive Interpretable Tabular Learning| | | |
 |StarSpace:Embed All The Things| | | |
 |CatBoost: gradient boosting with categorical features support| | | |
-|fastai: A Layered API for Deep Learning| | | |
 |Beyond User Embedding Matrix: Learning to Hash for Modeling Large-Scale Users in Recommendations
 |On Calibration of Modern Neural Networks| | | |
 |Deep Neural Networks as Gaussian Processes| | | |
