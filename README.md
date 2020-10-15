@@ -2,11 +2,11 @@
 
 A repository of inspiring machine learning papers.
 
-## Recommendation
+## Search and Recommendation
 | Paper | Authors | Code | Notes |
 | --- | --- | --- | --- |
 |How Airbnb Tells You Will Enjoy Sunset Sailing in Barcelona? Recommendation in a Two-Sided Travel Marketplace|Liang Wu, Mihajlo Grobovic | | The paper presents Airbnb's efforts on building recommender system for two-sided maretplace. In particular, it expands the knowlege graph with location-specific concepts and utilize location features with global-local mode. |
-
+|Embedding-based Retrieval in Facebook Search| Jui-Ting Huang, etc| | Many practical tips on how to make embedding based retrieval work, incl. training/serving|
 ## Graphs
 | Paper | Authors | Code | Notes |
 | --- | --- | --- | --- |
@@ -47,3 +47,8 @@ A repository of inspiring machine learning papers.
 |Neural Collaborative Filtering vs. Matrix Factorization Revisited| | | |
 |Neural Machine Translation of Rare Words with Subword Units| | | |
 |Debiasing Grid-based Product Search in E-commerce| | | |
+|Cyclical Learning Rates for Training Neural Networks| | |[Blog](https://sgugger.github.io/how-do-you-find-a-good-learning-rate.html#how-do-you-find-a-good-learning-rate) |
+|STRATEGIES FOR PRE-TRAINING GRAPH NEURAL NETWORKS| | | |
+|DistDGL: Distributed Graph Neural Network Training for Billion-Scale Graphs| | | |
+|Optimized Product Quantization for Approximate Nearest Neighbor Search| | | |
+|Hard-Aware Deeply Cascaded Embedding| | | |
