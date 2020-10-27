@@ -7,6 +7,8 @@ A repository of inspiring machine learning papers.
 | --- | --- | --- | --- |
 |How Airbnb Tells You Will Enjoy Sunset Sailing in Barcelona? Recommendation in a Two-Sided Travel Marketplace|Liang Wu, Mihajlo Grobovic | | The paper presents Airbnb's efforts on building recommender system for two-sided maretplace. In particular, it expands the knowlege graph with location-specific concepts and utilize location features with global-local mode. |
 |Embedding-based Retrieval in Facebook Search| Jui-Ting Huang, etc| | Many practical tips on how to make embedding based retrieval work, incl. training/serving|
+|Personalized Flight Itinerary Ranking at Fliggy| Jinhong Huang, etc| | extracting user preferences from long-term booking behavior, real-time clicking behavior and behavior from group users with same intention, using a listwise feature encoding|
+
 ## Graphs
 | Paper | Authors | Code | Notes |
 | --- | --- | --- | --- |
@@ -52,3 +54,14 @@ A repository of inspiring machine learning papers.
 |DistDGL: Distributed Graph Neural Network Training for Billion-Scale Graphs| | | |
 |Optimized Product Quantization for Approximate Nearest Neighbor Search| | | |
 |Hard-Aware Deeply Cascaded Embedding| | | |
+|Unbiased Learning-to-Rank with Biased Feedback| | | |
+|How to Fine-Tune BERT for Text Classification?| | | |
+|Self-training Improves Pre-training for Natural Language Understanding| | | |
+|Dynamic heterogeneous graph embedding using hierarchical attentions| | | |
+|Universal Language Model Fine-tuning for Text Classification| | | |
+|Learning to Hash with Graph Neural Networks for Recommender Systems| | | |
+|GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training| | | |
+|Graph-based Multi-hop Reasoning for Long Text Generation| | | |
+|AliGraph: A Comprehensive Graph Neural Network Platform| | | |
+|Language Models are Few-Shot Learners| | | |
+|Densely connected convolutional networks| | | |
