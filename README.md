@@ -26,7 +26,7 @@ A repository of inspiring machine learning papers.
 
 ## NLP
 | Paper | Authors | Year | Code | Notes |
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | ---|
 |Universal Language Model Fine-tuning for Text Classification| Jeremy Howard, Sebastian Ruder| 2018| |Techniques for fine-tuning: discriminative fine-tuning, slanted triangular learning rates, gradual unfreezing |
 
 
