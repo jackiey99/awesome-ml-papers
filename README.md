@@ -12,6 +12,7 @@ A repository of inspiring machine learning papers.
 ## Graphs
 | Paper | Authors | Year | Code | Notes |
 | --- | --- | --- | --- | --- |
+|[Combining Label Propagation and Simple Models Out-performs Graph Neural Networks](https://arxiv.org/abs/2010.13993)| Qian Huang, etc |2020 | [Github](https://github.com/CUAI/CorrectAndSmooth) | A simple pipeline (base prediction + correct and smooth with label propagation) is on par or exceeds GNNs |
 |[When Does Self-Supervision Help Graph Convolutional Networks?](https://arxiv.org/abs/2006.09136)|Yuning You, etc| 2020| [Python](https://github.com/Shen-Lab/SS-GCNs)| This paper explores three schemas of incorporating self-supervision into GCNs: pretraining+finetuning, self-training, multi-task learning, and designs three self-supervision tasks on graph: node clustering, graph partitioning, and graph completion.|
 
 ## Anomaly Detection
@@ -74,4 +75,5 @@ A repository of inspiring machine learning papers.
 |Query Transformation for Multi-Lingual Product Search| | | | |
 |TEM: Tree-enhanced Embedding Model for Explainable Recommendation| | | | |
 |Follow-the-Regularized-Leader and Mirror Descent: Equivalence Theorems and L1 Regularization| | | | |
-|Combining Label Propagation and Simple Models Out-performs Graph Neural Networks| | | | |
+|Open Domain Question Answering Using Early Fusion of Knowledge Bases and Text| | | | |
+|PullNet: Open Domain Question Answering with Iterative Retrieval on Knowledge Bases and Text| | | | |
