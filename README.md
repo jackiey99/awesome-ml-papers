@@ -9,6 +9,12 @@ A repository of inspiring machine learning papers.
 |Embedding-based Retrieval in Facebook Search| Jui-Ting Huang, etc|2020 | | Many practical tips on how to make embedding based retrieval work, incl. training/serving|
 |Personalized Flight Itinerary Ranking at Fliggy| Jinhong Huang, etc| 2020| | extracting user preferences from long-term booking behavior, real-time clicking behavior and behavior from group users with same intention, using a listwise feature encoding|
 
+
+## Pretraining
+| Paper | Authors | Year | Code | Notes |
+| --- | --- | --- | --- | --- |
+|Unsupervised Vision-and-Language Pre-training Without Parallel Images and Captions| Liunian Harold Li, etc| 2021| [Github](https://github.com/uclanlp/visualbert)| Pretrain vision and text models with unaligned data|
+
 ## Graphs
 | Paper | Authors | Year | Code | Notes |
 | --- | --- | --- | --- | --- |
@@ -77,3 +83,8 @@ A repository of inspiring machine learning papers.
 |Follow-the-Regularized-Leader and Mirror Descent: Equivalence Theorems and L1 Regularization| | | | |
 |Open Domain Question Answering Using Early Fusion of Knowledge Bases and Text| | | | |
 |PullNet: Open Domain Question Answering with Iterative Retrieval on Knowledge Bases and Text| | | | |
+|AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks| | | | |
+|GMNN: Graph Markov Neural Networks| | | | |
+|ERNIE: Enhanced Language Representation with Informative Entities| | | | |
+|XLNet: Generalized Autoregressive Pretraining for Language Understanding| | | | |
+|Deep Retrieval: An End-to-End Learnable Structure Model for Large-Scale Recommendations
